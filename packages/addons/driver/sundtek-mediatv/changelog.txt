@@ -1,0 +1,11 @@
+102
+- Automatically update driver to latest version on first install
+- Show driver version in addon settings
+- Allow update for aarch64 architecture
+- German translations
+
+101
+- System wait-for-online preference is now respected
+
+100
+- Initial add-on
